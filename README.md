@@ -1,3 +1,3 @@
 # SME0828
 
-## Introdução à Ciência de Dados (2022)
+## Introduction to Data Science (2022)
